@@ -1245,7 +1245,12 @@
     "chatPreviewBubbleYou": "Yes. Same rule for both sides.",
     "chatPreviewBubblePeerShort": "👍",
     "chatPreviewInputPlaceholder": "Unavailable until the thread opens",
-    "chatPreviewFootnote": "Sample layout only — nothing is sent over XMTP until the rival is reachable."
+    "chatPreviewFootnote": "Sample layout only — nothing is sent over XMTP until the rival is reachable.",
+    "reconnectConnecting": "Reconnecting to secure messaging… You can keep typing; your draft is saved.",
+    "reconnectReady": "Connected. Messages send when you press Send.",
+    "reconnectUnavailable": "Messaging is unavailable right now. Your draft is saved on this device and will be here when it reconnects.",
+    "reconnectUncertainSend": "We couldn't confirm your last message was delivered. Check the thread before sending it again, so it isn't sent twice.",
+    "reconnectUncertainDismiss": "Got it"
   },
   "agentDirectory": {
     "emptyStateTitle": "No agents found",
